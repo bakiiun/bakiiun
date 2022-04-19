@@ -8,7 +8,7 @@
 ```javascript
 const myInformation = {
       mobil: [Flutter],
-      frontEnd: [HTML, Javascript, VueJs, Vuetify, Vuex, Bootstrap, Apexchart, D3JS],
+      frontEnd: [HTML, Javascript, VueJS, Vuetify, Vuex, Bootstrap, Apexchart, D3JS],
       backEnd: [
             NodeJS, 
             Javascript, 
@@ -23,7 +23,7 @@ const myInformation = {
       ],
       database: [MySQL, MongoDB],
       webServices: [AWS],
-      os: [Linux(Debian, Ubuntu, Centos 7), Windows],
+      os: [Linux, Windows],
       git: [Github],
 }
 
