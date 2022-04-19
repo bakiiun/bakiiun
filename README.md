@@ -10,11 +10,11 @@ const myInformation = {
       mobil: [Flutter],
       frontEnd: [HTML, Javascript, VueJs, Vuetify, Vuex, Bootstrap, Apexchart, D3JS],
       backEnd: [
-            Node.js, 
+            NodeJS, 
             Javascript, 
             REST-API, 
             Docker, 
-            Socket.io, 
+            SocketIO, 
             NGINX,  
             Redis, 
             Typescript,
