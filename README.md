@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### I'm Baki UN 
+#### I'm Baki UN, Backend Developer
 
 - 🔭 I’m currently working on [Green Walley](https://github.com/bakiiun/greenwalley)
 - 🌱 I’m currently learning REDIS
