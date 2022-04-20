@@ -44,8 +44,6 @@ export default { myInformation }
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333?style=flat&logo=dart)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
