@@ -19,7 +19,7 @@ const myInformation = {
             Redis, 
             Typescript,
             GraphQL,
-            Prisma(ORM),
+            Prisma,
       ],
       database: [MySQL, MongoDB],
       webServices: [AWS],
