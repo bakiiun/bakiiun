@@ -2,7 +2,7 @@
 #### I'm Baki UN, Backend Developer
 
 - 🔭 I’m currently working on [Green Walley](https://github.com/bakiiun/greenwalley)
-- 🌱 I’m currently learning REDIS
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: [![Linkedin: bakiiun](https://img.shields.io/badge/-bakiiun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bakiun/)](https://www.linkedin.com/in/bakiun/) [![Gmail: baki94](https://img.shields.io/badge/-baki94@gmail.com-e64036?style=flat&logo=Gmail&logoColor=white&link=mailto:baki94@gmail.com)](mailto:baki94@gmail.com)
 
 ```javascript
